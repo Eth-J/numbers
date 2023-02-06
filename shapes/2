@@ -1,6 +1,10 @@
 {
 	"description": "This artwork may or may not be notable",
 	"image":"https://numbers-shapes.netlify.app/shapes/2.png",
-	"name":"#2",
-	"layer":"1"
+	"name":"Shapes #2",
+	"attributes": [
+    	{
+      		"trait_type": "Layer", 
+     		 "value": "1"
+    	}]
 }
