@@ -5,8 +5,8 @@
 	"attributes": [
     	{
 	    "trait_type": "Layer",
-  	"value": "1"
-	"trait_type": "test",
+  	"value": "1"},
+	{"trait_type": "test",
   	"value": "yes"
     	}]
 }
