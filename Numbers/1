@@ -1,38 +1,10 @@
 {
-  "dna": "f05b149e129c6c2f1bc36ad2c7ada7ba",
-  "name": "Untitled Project #0",
-  "description": null,
-  "image":"https://numbers-shapes.netlify.app/numbers/1.png",
-  "date": 1684037013881,
-  "attributes": [
-    {
-      "trait_type": "background",
-      "value": "pepeworld"
-    },
-    {
-      "trait_type": "body",
-      "value": "green"
-    },
-    {
-      "trait_type": "clothes",
-      "value": "apes2"
-    },
-    {
-      "trait_type": "headwear",
-      "value": "apes2"
-    },
-    {
-      "trait_type": "mouth",
-      "value": "stupid"
-    },
-    {
-      "trait_type": "eyes",
-      "value": "whattttt6"
-    },
-    {
-      "trait_type": "weapon",
-      "value": "hatchet"
-    }
-  ],
-  "compiler": "mintables.club"
+"description": "This artwork may or may not be notable.",
+	"image":"https://numbers-shapes.netlify.app/numbers/1.png",
+	"name":"Numbers 1",
+	"attributes": [
+    	{
+	    "trait_type": "Layer",
+  	"value": "1"}
+	]
 }
