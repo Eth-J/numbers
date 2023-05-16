@@ -1,40 +1,10 @@
-
-
 {
-  "dna": "a6db97bcf028db96697c85c8f83c53d6",
-  "name": "Untitled Project #2",
-  "description": null,
+"description": "This artwork may or may not be notable.",
 	"image":"https://numbers-shapes.netlify.app/numbers/5.png",
-  "date": 1684030285711,
-  "attributes": [
-    {
-      "trait_type": "background",
-      "value": "background9"
-    },
-    {
-      "trait_type": "body",
-      "value": "green"
-    },
-    {
-      "trait_type": "clothes",
-      "value": "clothes12"
-    },
-    {
-      "trait_type": "headwear",
-      "value": "headwear21"
-    },
-    {
-      "trait_type": "mouth",
-      "value": "yahhhh"
-    },
-    {
-      "trait_type": "eyes",
-      "value": "ammad6"
-    },
-    {
-      "trait_type": "weapon",
-      "value": "none"
-    }
-  ],
-  "compiler": "mintables.club"
+	"name":"Numbers 5",
+	"attributes": [
+    	{
+	    "trait_type": "Layer",
+  	"value": "1"
+    	}]
 }
